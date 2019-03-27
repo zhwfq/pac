@@ -3,7 +3,7 @@
  * GFWList Last-Modified: 2019-03-16 05:05:00
  */
 
-var proxy = 'SOCKS5 zhonwi.f3322.net:1080';
+var proxy = 'PROXY zhonwi.f3322.net:1080';
 var rules = [
     [
         [],
